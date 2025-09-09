@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotificationsClient", "PushNotificationsClient\PushNotificationsClient.csproj", "{5D3F2400-004E-4365-9337-E79FF6EA1D3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotificationsServer", "PushNotificationsServer\PushNotificationsServer.csproj", "{BBA977DB-2818-4A3A-B99F-C8BFC54354F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,10 @@ Global
 		{5D3F2400-004E-4365-9337-E79FF6EA1D3C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{5D3F2400-004E-4365-9337-E79FF6EA1D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D3F2400-004E-4365-9337-E79FF6EA1D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA977DB-2818-4A3A-B99F-C8BFC54354F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA977DB-2818-4A3A-B99F-C8BFC54354F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA977DB-2818-4A3A-B99F-C8BFC54354F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA977DB-2818-4A3A-B99F-C8BFC54354F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
