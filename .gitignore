@@ -363,5 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 google-services.json
-
+.DS_Store
 pushnotifications-13589-firebase-adminsdk-fbsvc-b8fab66b9d.json
